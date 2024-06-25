@@ -12,7 +12,7 @@ $ apt update  -y
 $ apt install git -y
 ````
 ````
-$ git clone https://github.com/Crypt-tors/MeTasploit.git
+$ git clone https://github.com/Cyber-Ron/MeTasploit.git
 ````
 
 ### Usage
